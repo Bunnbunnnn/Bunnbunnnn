@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bunn
 - 👀 I’m interested in game UX / UR 
-- 🌱 I’m curently graduated with a M.SC. in Usability Engineering with an interest in game UX
+- 🌱 I graduated with a M.SC. in Usability Engineering with an interest in game UX
 - 💞️ I’m looking to collaborate on playtesting and usability studies for games
 - 📫 How to reach me here or on discord at Bunn#2762
 
